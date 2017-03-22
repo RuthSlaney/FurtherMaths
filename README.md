@@ -1,2 +1,2 @@
 # FurtherMaths
-further maths revision
+Further maths revision
