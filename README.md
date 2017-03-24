@@ -22,6 +22,9 @@ First fit (decreasing):
 3) Continue this way until all items are in the boxes.
 
 Efficiency = run time
+
 Size = complexity
+
 Order = efficiency in terms of size
+
 Both bubble sort and shuttle sort are of quadratic order so the maximum number of swaps = (n-1)n/2
