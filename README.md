@@ -39,4 +39,4 @@ Order = efficiency in terms of size
 
 Both bubble sort and shuttle sort are of quadratic order so the maximum number of swaps = (n-1)n/2
 
-<img src="https://www.google.co.uk/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwjT9bHu7_HSAhVB6xoKHRCuB54QjRwIBw&url=http%3A%2F%2Fbyjus.com%2Fmaths%2F&psig=AFQjCNHA3jma3arywUSGlBVYIY-EDojCKQ&ust=1490538789476500" alt="Maths picture" style="width:304px;height:228px;">
+<img src="maths.png" alt="Maths picture" style="width:304px;height:228px;">
