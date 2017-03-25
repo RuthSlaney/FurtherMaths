@@ -1,4 +1,4 @@
-Sorting Algorithms
+<h1>Sorting Algorithms</h1>
 
 There are 3 sorts of sorting algorithm:
  - Bubble sort
