@@ -40,3 +40,9 @@ Order = efficiency in terms of size
 Both bubble sort and shuttle sort are of quadratic order so the maximum number of swaps = (n-1)n/2
 
 <img src="maths.png" alt="Maths picture" style="width:304px;height:228px;">
+
+<button type="button"
+onclick="document.getElementById('demo').innerHTML = Date()">
+Click me to display Date and Time.</button>
+
+<p id="demo"></p>
