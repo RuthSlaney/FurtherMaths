@@ -5,7 +5,7 @@ There are 3 sorts of sorting algorithm:
  - Shuttle sort
  - First fit (decreasing)
  
-Bubble sort:
+<h2>Bubble sort:</h2>
 
 1) Compare 1st 2 items and swap if necessary.
 
@@ -15,7 +15,7 @@ Bubble sort:
 
 4) Keep doing this operation, missing the previous last item until the pass has no comparisons or you only have one item left.
 
-Shuttle sort:
+<h2>Shuttle sort:</h2>
 
 1) Compare 1st and 2nd items and swap if necessary.
 
@@ -23,7 +23,7 @@ Shuttle sort:
 
 3) Continue this way until all items have been considered (kth pass considers k and k+1, then k and k-1 and so on until 2nd and 1st items considered or no swaps necessary).
 
-First fit (decreasing):
+<h2>First fit (decreasing):</h2>
 
 1) If first fit decreasing, sort list into decreasing order else, leave as is.
 
