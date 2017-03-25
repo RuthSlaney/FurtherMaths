@@ -1,3 +1,18 @@
+<button onclick="myFunction()">Try me</button>
+
+<p id="demo"></p>
+
+<script>
+function myFunction() {
+    var person = prompt("Please enter your name", "Name");
+    
+    if (person != null) {
+        document.getElementById("demo").innerHTML =
+        "Hello " + person + "! How are you today?";
+    }
+}
+</script>
+
 <h1>Sorting Algorithms</h1>
 
 There are 3 sorts of sorting algorithm:
@@ -46,20 +61,3 @@ onclick="document.getElementById('demo').innerHTML = Date()">
 Click me to display Date and Time.</button>
 
 <p id="demo"></p>
-
-<p>Hello...</p>
-
-<button onclick="myFunction()">Try me</button>
-
-<p id="demo"></p>
-
-<script>
-function myFunction() {
-    var person = prompt("Please enter your name", "Name");
-    
-    if (person != null) {
-        document.getElementById("demo").innerHTML =
-        "Hello " + person + "! How are you today?";
-    }
-}
-</script>
