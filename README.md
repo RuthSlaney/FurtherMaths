@@ -47,15 +47,15 @@ Click me to display Date and Time.</button>
 
 <p id="demo"></p>
 
-<p>Click the button to demonstrate the prompt box.</p>
+<p>Hello...</p>
 
-<button onclick="myFunction()">Try it</button>
+<button onclick="myFunction()">Try me</button>
 
 <p id="demo"></p>
 
 <script>
 function myFunction() {
-    var person = prompt("Please enter your name", "Harry Potter");
+    var person = prompt("Please enter your name", "Name");
     
     if (person != null) {
         document.getElementById("demo").innerHTML =
