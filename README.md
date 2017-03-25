@@ -9,7 +9,7 @@ function myFunction() {
     
     if (person != null) {
         document.getElementById("demo").innerHTML =
-        "Hello " + person + "! How are you today?";
+        "Hello " + person + "! How are you today? Ready to do some maths revision?";
     }
 }
 </script>
